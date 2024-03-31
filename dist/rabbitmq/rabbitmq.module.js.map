@@ -1,0 +1,1 @@
+{"version":3,"file":"rabbitmq.module.js","sourceRoot":"","sources":["../../src/rabbitmq/rabbitmq.module.ts"],"names":[],"mappings":";;;;;;;;;AACA,2CAAgD;AAChD,oDAAuD;AAOhD,IAAM,cAAc,4BAApB,MAAM,cAAc;CAE1B,CAAA;yBAFY,cAAc;IAL1B,IAAA,eAAM,GAAE;IACR,IAAA,eAAM,EAAC;QACN,SAAS,EAAE,CAAC,yBAAc,CAAC;QAC3B,OAAO,EAAE,CAAC,yBAAc,CAAC;KAC1B,CAAC;GACW,cAAc,CAE1B"}
